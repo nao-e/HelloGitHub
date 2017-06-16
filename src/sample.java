@@ -6,5 +6,6 @@ public class sample {
 	 */
 	public void writeCode(){
 		System.out.println("サンプル、別API");
+		System.out.println("sample-local-master");
 	}
 }
